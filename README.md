@@ -1,20 +1,53 @@
-![1743674424085](https://github.com/user-attachments/assets/8f8c2b1d-c263-4e50-ba65-239a54be3c2c)
+<h1 >Hey there, I'm Juniel Husain👋</h1>
+<p ><em>Full-Stack Developer | Tech Explorer | Based in Bohol, Philippines 🇵🇭</em></p>
 
+<p>
+  <a href="https://github.com/juniel999">
+    <img src="https://img.shields.io/github/followers/juniel999?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/juniel999?tab=repositories">
+    <img src="https://img.shields.io/github/stars/juniel999?style=social" alt="GitHub stars" />
+  </a>
+</p>
 
-### 🧠 About Me
+- 🌍 Working remotely from **Bohol, Philippines**
 
-- 🎯 Passionate about building full-stack applications with modern technologies.
-- 🧩 Enjoy creating interactive and real-time web experiences.
-- 📍 Based in Bohol, Philippines.
+---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, PHP
-- **Frontend:** Angular, ReactJS
-- **Backend:** Node.js, Express, NestJS, Laravel
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
 
-### 📈 GitHub Stats
+#### 🌐 Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniel999&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://streak-stats.demolab.com?user=juniel999&theme=outrun&hide_border=true)
+#### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=juniel999&theme=outrun&show_icons=true&hide_border=true&count_private=true" />
+  <img height="200" width="400" src="https://streak-stats.demolab.com?user=juniel999&theme=outrun&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/juniel999">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
