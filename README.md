@@ -1,16 +1,7 @@
 <h1 >Hey there, I'm Juniel Husain👋</h1>
 <p ><em>Full-Stack Developer | Tech Explorer | Based in Bohol, Philippines 🇵🇭</em></p>
 
-<p>
-  <a href="https://github.com/juniel999">
-    <img src="https://img.shields.io/github/followers/juniel999?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/juniel999?tab=repositories">
-    <img src="https://img.shields.io/github/stars/juniel999?style=social" alt="GitHub stars" />
-  </a>
-</p>
-
-- 🌍 Working remotely from **Bohol, Philippines**
+🌍 Working remotely from **Bohol, Philippines**
 
 ---
 
@@ -35,19 +26,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=juniel999&theme=outrun&show_icons=true&hide_border=true&count_private=true" />
-  <img height="200" width="400" src="https://streak-stats.demolab.com?user=juniel999&theme=outrun&hide_border=true" />
-</p>
+<div>
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=juniel999&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="juniel999's GitHub Stats" />
+  <img height="200" width="400" src="https://streak-stats.demolab.com?user=juniel999&theme=algolia&hide_border=true" alt="juniel999's GitHub Stats" />
+</div>
 
----
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/juniel999">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
