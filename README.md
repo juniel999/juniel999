@@ -1,9 +1,7 @@
-<h1 >Hey there, I'm Juniel Husain👋</h1>
-<p ><em>Full-Stack Developer | Tech Explorer | Based in Bohol, Philippines 🇵🇭</em></p>
+<h1>Hey there, I'm Juniel Husain👋</h1>
+<p>Full-Stack Developer | Tech Explorer | Based in Bohol, Philippines 🇵🇭</p>
 
 🌍 Working remotely from **Bohol, Philippines**
-
----
 
 ### 🛠️ Tech Stack
 
@@ -15,6 +13,7 @@
 #### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 #### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
@@ -22,13 +21,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
 <div>
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=juniel999&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="juniel999's GitHub Stats" />
   <img height="200" width="400" src="https://streak-stats.demolab.com?user=juniel999&theme=algolia&hide_border=true" alt="juniel999's GitHub Stats" />
 </div>
-
-
